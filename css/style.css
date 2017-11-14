@@ -1,0 +1,60 @@
+.red {
+  position: absolute;
+  background: red;
+  width: 400px;
+  height: 400px;
+  left: 480px;
+  top: 150px;
+}
+
+.purple {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: purple;
+  left: 100px;
+  top: 100px;
+}
+
+.yellow {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background: yellow;
+}
+
+.blue {
+  position: absolute;
+  background: blue;
+  width: 400px;
+  height: 400px;
+  left: 480px;
+  top: 650px;
+  margin-bottom: 300px;
+}
+
+.black {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background: black;
+}
+
+.green {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: green;
+  left: 100px;
+}
+
+.ejemplo-fixed {
+  position: fixed;
+  top: 150px;
+  background: pink;
+  width: 220px;
+  height: 100px;
+  font-family: sans-serif;
+  font-size: 80px;
+  color: white;
+}
